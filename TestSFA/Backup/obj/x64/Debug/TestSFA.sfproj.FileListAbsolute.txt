@@ -1,0 +1,1 @@
+c:\users\senthurans\documents\visual studio 2017\Projects\TestSFA\TestSFA\obj\x64\Debug\TestSFA.sfprojResolveAssemblyReference.cache

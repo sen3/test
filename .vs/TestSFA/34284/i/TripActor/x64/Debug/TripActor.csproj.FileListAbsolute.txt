@@ -1,0 +1,6 @@
+c:\Users\senthurans\Documents\Visual Studio 2017\Projects\TestSFA\.vs\TestSFA\34284\b\TripActor\bin\x64\Debug\TripActor.exe.config
+c:\Users\senthurans\Documents\Visual Studio 2017\Projects\TestSFA\.vs\TestSFA\34284\b\TripActor\bin\x64\Debug\TripActor.exe
+c:\Users\senthurans\Documents\Visual Studio 2017\Projects\TestSFA\.vs\TestSFA\34284\b\TripActor\bin\x64\Debug\TripActor.pdb
+c:\Users\senthurans\Documents\Visual Studio 2017\Projects\TestSFA\.vs\TestSFA\34284\i\TripActor\x64\Debug\TripActor.csprojResolveAssemblyReference.cache
+c:\Users\senthurans\Documents\Visual Studio 2017\Projects\TestSFA\.vs\TestSFA\34284\i\TripActor\x64\Debug\TripActor.exe
+c:\Users\senthurans\Documents\Visual Studio 2017\Projects\TestSFA\.vs\TestSFA\34284\i\TripActor\x64\Debug\TripActor.pdb

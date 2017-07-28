@@ -1,0 +1,4 @@
+c:\Users\senthurans\Documents\Visual Studio 2017\Projects\TestSFA\.vs\TestSFA\34284\b\TripActor.Interfaces\bin\x64\Debug\TripActor.Interfaces.dll
+c:\Users\senthurans\Documents\Visual Studio 2017\Projects\TestSFA\.vs\TestSFA\34284\b\TripActor.Interfaces\bin\x64\Debug\TripActor.Interfaces.pdb
+c:\Users\senthurans\Documents\Visual Studio 2017\Projects\TestSFA\.vs\TestSFA\34284\i\TripActor.Interfaces\x64\Debug\TripActor.Interfaces.dll
+c:\Users\senthurans\Documents\Visual Studio 2017\Projects\TestSFA\.vs\TestSFA\34284\i\TripActor.Interfaces\x64\Debug\TripActor.Interfaces.pdb

@@ -1,0 +1,8 @@
+c:\Users\senthurans\Documents\Visual Studio 2017\Projects\TestSFA\.vs\TestSFA\34284\b\TripActor.UnitTest\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\senthurans\Documents\Visual Studio 2017\Projects\TestSFA\.vs\TestSFA\34284\b\TripActor.UnitTest\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\senthurans\Documents\Visual Studio 2017\Projects\TestSFA\.vs\TestSFA\34284\b\TripActor.UnitTest\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\senthurans\Documents\Visual Studio 2017\Projects\TestSFA\.vs\TestSFA\34284\b\TripActor.UnitTest\bin\x64\Debug\TripActor.UnitTest.dll
+c:\Users\senthurans\Documents\Visual Studio 2017\Projects\TestSFA\.vs\TestSFA\34284\b\TripActor.UnitTest\bin\x64\Debug\TripActor.UnitTest.pdb
+c:\Users\senthurans\Documents\Visual Studio 2017\Projects\TestSFA\.vs\TestSFA\34284\i\TripActor.UnitTest\x64\Debug\TripActor.UnitTest.csprojResolveAssemblyReference.cache
+c:\Users\senthurans\Documents\Visual Studio 2017\Projects\TestSFA\.vs\TestSFA\34284\i\TripActor.UnitTest\x64\Debug\TripActor.UnitTest.dll
+c:\Users\senthurans\Documents\Visual Studio 2017\Projects\TestSFA\.vs\TestSFA\34284\i\TripActor.UnitTest\x64\Debug\TripActor.UnitTest.pdb
